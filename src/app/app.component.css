@@ -1,0 +1,4 @@
+div[class^="col"],
+div[class*=" row"] {
+  border: 1px dotted black;
+}
